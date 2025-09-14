@@ -1,0 +1,12 @@
+{
+  "Type": "content",
+  "Name": "Sluice: Circuit's Patch",
+  "Version": "1.0.0",
+  "Description": "Patches Sluice by Bloodypizza17 to be craftable with any metal rods.",
+  "Website": "https://github.com/CircuitDev192/SluiceCircuitsPatch",
+  "ModID": "sluicecircuitspatch",
+  "Authors": [
+    "CircuitPwne"
+  ],
+  "Side": "Universal"
+}
