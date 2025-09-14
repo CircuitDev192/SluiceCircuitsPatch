@@ -1,9 +1,9 @@
 [
   {
-	"file": "game:recipes/grid/sluice.json",
+	"file": "sluice:recipes/grid/sluice.json",
 	"op": "replace",
-	"path": "/0/ingredients/I",
-	"value": { type: "code", code: "game:rod-*" },
+	"path": "/ingredients/I",
+	"value": { type: "item", code: "game:rod-*" },
     "side": "Server",
 	"dependsOn": [{ "modid": "sluice" }]
   }
