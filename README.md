@@ -18,9 +18,9 @@ The "Sluice" mod allows you to craft a sluice block that automates the panning o
 
 ![Thumbnail](thumbnail.png)
 
-![Screenshot 1](pic 1.png)
+![Screenshot 1](pic1.png)
 
-![Screenshot 2](pic 2.png)
+![Screenshot 2](pic2.png)
 
 ## Installation
 
